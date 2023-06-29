@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>1.jpg</file>
+        <file>2.jpg</file>
+        <file>next.jpg</file>
+        <file>xg.jpg</file>
+        <file>tanchishe.wav</file>
+        <file>snake.ico</file>
+        <file>12.jpg</file>
+        <file>over.wav</file>
+    </qresource>
+</RCC>
